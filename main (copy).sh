@@ -52,12 +52,15 @@ EastHaven (){
 clear 
 echo -e " \n You got to EastHaven safely and went to talk to some of the townsfolk to see what is going on. \n "
 sleep 4
-echo -e " \nAll of them said about the same thing and it was that THE KING OF $enemy's is planning to take over the whole world with his evil army of evil $enemy's \n"
+echo -e " \n All of them said about the same thing and it was that THE KING OF $enemy's is planning to take over the whole world with his evil army of evil $enemy's \n"
 sleep 4 
-echo -e "\n you went to the King of Easthaven to see what you could be do about this masacare that is about to happen /n"
-
-"
-
+echo -e "\n You went to the King of Easthaven to see what you could be do about this masacare that is about to happen /n"\
+sleep 4
+echo -e " \n When you went to the King , his counselor saw you and said that you are the prophesied Hero of $world \n "
+sleep 4
+echo -e " \n He said that you can choose either three weapons to defeat the Evil Evil King of the $enemy's "
+sleep 4 
+echo -e "  You have a choice of The Holy Magnificant Awesome Sword of the Gods, \n The Wand of Legendary Magic Or a Shotgun "
 }
 
 
